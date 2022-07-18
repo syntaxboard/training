@@ -5,5 +5,8 @@
 ## Courses
 
 ### Python Django Backend Developer Course
+* Python
+* SQL
+* Django
 
 ### Python Cloud Developer Course
