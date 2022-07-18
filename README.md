@@ -5,8 +5,11 @@
 ## Courses
 
 ### Python Django Backend Developer Course
-* Python
-* SQL
-* Django
+* [Python](https://github.com/syntaxboard/training/blob/main/python-core-developer-training.md)
+* [SQL](https://github.com/syntaxboard/training/blob/main/python-sql-developer-training.md)
+* [Django](https://github.com/syntaxboard/training/blob/main/python-django-developer-training.md)
 
 ### Python Cloud Developer Course
+* [Python](https://github.com/syntaxboard/training/blob/main/python-core-developer-training.md)
+* [SQL](https://github.com/syntaxboard/training/blob/main/python-sql-developer-training.md)
+* [AWS](https://github.com/syntaxboard/training/blob/main/python-aws-cloud-developer-training.md)
