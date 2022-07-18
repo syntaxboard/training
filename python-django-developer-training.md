@@ -32,11 +32,9 @@
 * Django Forms and Templates `syntaxboard_2_forms_templates`
 
   * Forms
-  * Templates
-  * Template Inheritance
+  * Templates and Template Inheritance
   * Sessions
   * Cookies
-
 
 > Day 4 and 5
 
