@@ -9,13 +9,13 @@
 
 
 ### Python [12 Sessions]
-  * Core Language see link for details ()
+  * Core Language [more details...](https://github.com/syntaxboard/training/blob/main/python-core-developer-training.md)
   * Lambda Functions -- Configure AWS Lambda functions by defining environment variables and parameters.
   * API Gateway -- Endpoint Creation, Integrating the API Gateway with Lambda Function.
   * Step Functions -- Step Function Workflow, Workflow Execution, Tasks, Error Handling
 
 ### SQL [5 Sessions]
-  * SQL Development (See link for details)
+  * SQL Development [more details...](https://github.com/syntaxboard/training/blob/main/python-sql-developer-training.md)
   * RDS -- Project with code and deployment
   * Athena -- Federated queries, Integrations and Security.
   * Redshift -- Project with code and deployment
@@ -25,6 +25,7 @@
   * AWS ECR -- Deploying to ECR.
   * AWS ECS -- Clusters, Services and Tasks.
 
+### Misc.
 * Daily Projects and Assignments.
 * Enterprise grade project.
 * All coding and training is done on OUR AWS account with account and AWS resource access for every student for 2 Months, included as part of the training.
