@@ -22,11 +22,9 @@
   * Routing
   * Return Types
   * Multiple Views
-  * Class Based Views
   * Redirecting
   * 404 Error
-  * Static Files
-
+  
 > Day 2 and 3
 
 * Django Forms and Templates `syntaxboard_2_forms_templates`
@@ -42,6 +40,7 @@
 
   * Models
   * Webservices Functions
+  * Class Based Views and Mixins
   * Webservices Database CRUD
   * Users Management
   * Authentication
