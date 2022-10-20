@@ -13,3 +13,6 @@
 * [Python](https://github.com/syntaxboard/training/blob/main/python-core-developer-training.md)
 * [SQL](https://github.com/syntaxboard/training/blob/main/python-sql-developer-training.md)
 * [AWS](https://github.com/syntaxboard/training/blob/main/python-cloud-developer-training.md)
+
+### Tableau
+* [Tableau](https://github.com/syntaxboard/training/blob/main/tableau-training.md)
