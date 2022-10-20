@@ -1,5 +1,5 @@
 # Python Developer Remote Training Program
-> Venkata Bhattaram (c) 2022
+> Syntaxboard LLC
 
 
 ## Courses
@@ -14,5 +14,5 @@
 * [SQL](https://github.com/syntaxboard/training/blob/main/python-sql-developer-training.md)
 * [AWS](https://github.com/syntaxboard/training/blob/main/python-cloud-developer-training.md)
 
-### Tableau
+### Tableau Professional Developer Course (Duration 27 Days)
 * [Tableau](https://github.com/syntaxboard/training/blob/main/tableau.md)
