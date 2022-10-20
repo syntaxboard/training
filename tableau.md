@@ -13,7 +13,7 @@
 * DataSets - JSON (Webservices)
 * DataSets - RefCursor
 
-## Tableu Course (20 Days)
+## Tableau Course (20 Days)
 * Introduction to Tableau
 * Data - Extraction
 * Data - Manipulations & Transformation
