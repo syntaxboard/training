@@ -15,4 +15,4 @@
 * [AWS](https://github.com/syntaxboard/training/blob/main/python-cloud-developer-training.md)
 
 ### Tableau
-* [Tableau](https://github.com/syntaxboard/training/blob/main/tableau-training.md)
+* [Tableau](https://github.com/syntaxboard/training/blob/main/tableau.md)
